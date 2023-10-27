@@ -1,2 +1,3 @@
 # Example Repositry
-this is first repo, hello world
+this is first repo, hello codder
+nice to meet you
